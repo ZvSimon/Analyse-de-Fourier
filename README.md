@@ -13,7 +13,7 @@ Approche théorique et expérimatal des coefficients de Fourier.
 
 
 
-## Tech Stack
+## Programmation
 
 Python
 
